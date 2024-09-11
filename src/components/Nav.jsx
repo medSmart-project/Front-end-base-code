@@ -12,7 +12,7 @@ function Nav() {
   return (
     <>
       <div className=" w-full top-0 left-0">
-        <div className="container bg-gradient-to-r from-sky-200 to-sky-100  flex flex-row justify-between font-poppins ">
+        <div className=" bg-gradient-to-r from-sky-200 to-sky-100  flex flex-row justify-between font-poppins ">
           <div className="pl-3">
             <span className="cursor-pointer">
               <img src={logo3} alt="" className="w-45 h-24" />
