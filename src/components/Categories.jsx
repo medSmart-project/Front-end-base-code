@@ -8,7 +8,7 @@ import pharma2 from "../assets/pharma2.jpg";
 function Categories() {
   return (
     <>
-      <div className="container flex flex-col mt-10 font-poppins ">
+      <div className="flex flex-col mt-10 font-poppins ">
         <div className="flex justify-center my-4">
           <p className="font-bold text-4xl text-sky-800 my-5">Categories</p>
         </div>
