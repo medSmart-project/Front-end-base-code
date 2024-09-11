@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/style1.css";
+import "../styles/style.css";
 import logo from "../../../assets/imgs/logo.png";
 import avatar from "../../../assets/imgs/avatar.png";
 import dashboard from "../../../assets/imgs/dashboard1.png";

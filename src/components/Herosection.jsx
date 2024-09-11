@@ -5,7 +5,7 @@ import Button from "./Button";
 function Herosection() {
   return (
     <>
-      <div className="container bg-gradient-to-r from-sky-200 to-sky-100 grid grid-cols-2 font-poppins">
+      <div className=" bg-gradient-to-r from-sky-200 to-sky-100 grid grid-cols-2 font-poppins">
         <div className="flex flex-col justify-end">
           <img src={doctor1} className="w-full h-5/6"></img>
         </div>
