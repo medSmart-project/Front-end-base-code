@@ -86,8 +86,8 @@ const Products = () => {
               </ul>
             </div>
           </div>
-          <div className="add-options grid grid-cols-3 mt-24 mx-20">
-            <div className="flex flex-col items-center border-4  border-solid border-sky-700 rounded-md ">
+          <div className="add-options flex justify-between align-middle mt-24 mx-20">
+            <div className="flex flex-col items-center border-4  border-solid border-sky-700 rounded-lg w-96">
               <img
                 src={addproduct}
                 alt="add product"
@@ -98,10 +98,10 @@ const Products = () => {
               </button>
             </div>
             <div className="flex flex-col items-center justify-center">
-              <p className="font-bold text-6xl text-center">OR</p>
+              <p className="font-bold text-6xl text-center text-sky-700">OR</p>
             </div>
 
-            <div className="flex flex-col items-center border-4  border-solid border-sky-700 rounded-md ">
+            <div className="flex flex-col items-center border-4  border-solid border-sky-700 rounded-lg w-96">
               <img
                 src={scanproduct}
                 alt="scan product"
