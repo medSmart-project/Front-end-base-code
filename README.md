@@ -98,8 +98,8 @@ medsmart/
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/medsmart.git
-    cd medsmart
+    git clone https://github.com/medSmart-project/Front-end-base-code.git
+    cd 'Front-end-base-code'
     ```
 
 2. **Install dependencies:**
