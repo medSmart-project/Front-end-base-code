@@ -10,8 +10,48 @@ The project is organized into two main parts under the `src` directory: `compone
 
 ### Directory Structure
 
-medsmart/ ├── src/ │ ├── assets/ │ ├── components/ │ │ ├── Aboutus.jsx │ │ ├── Button.jsx │ │ ├── ButtonSmall.jsx │ │ ├── CardSlider.jsx │ │ ├── Categories.jsx │ │ ├── Herosection.jsx │ │ ├── Nav.jsx │ │ ├── Offers.jsx │ │ ├── ProductCard.jsx │ │ ├── Recommended.jsx │ │ ├── Review.jsx │ │ ├── Reviews.jsx │ ├── views/ │ │ ├── dashboard/ │ │ │ ├── pages/ │ │ │ │ ├── Billing.jsx │ │ │ │ ├── Dashboard.jsx │ │ │ │ ├── Delivery.jsx │ │ │ │ ├── Partners.jsx │ │ │ │ ├── Products.jsx │ │ │ └── styles/ │ │ ├── e-commerce/ │ │ │ ├── pages/ │ │ │ │ ├── AboutUs.jsx │ │ │ │ ├── AllProducts.jsx │ │ │ │ ├── Cart.jsx │ │ │ │ ├── ContactUs.jsx │ │ │ │ ├── Home.jsx │ │ │ │ ├── ProductDetails.jsx │ │ │ │ ├── ProductsByCategory.jsx │ │ │ │ ├── TrackOrders.jsx │ │ │ └── styles/ │ ├── App.css │ ├── App.jsx │ ├── index.css │ ├── main.jsx
-
+```bash
+medsmart/ 
+├── src/ 
+│ ├── assets/ 
+│ ├── components/ 
+│ │ ├── Aboutus.jsx 
+│ │ ├── Button.jsx 
+│ │ ├── ButtonSmall.jsx 
+│ │ ├── CardSlider.jsx 
+│ │ ├── Categories.jsx 
+│ │ ├── Herosection.jsx 
+│ │ ├── Nav.jsx 
+│ │ ├── Offers.jsx 
+│ │ ├── ProductCard.jsx 
+│ │ ├── Recommended.jsx 
+│ │ ├── Review.jsx 
+│ │ ├── Reviews.jsx 
+│ ├── views/ 
+│ │ ├── dashboard/ 
+│ │ │ ├── pages/ 
+│ │ │ │ ├── Billing.jsx 
+│ │ │ │ ├── Dashboard.jsx 
+│ │ │ │ ├── Delivery.jsx 
+│ │ │ │ ├── Partners.jsx 
+│ │ │ │ ├── Products.jsx 
+│ │ │ └── styles/ 
+│ │ ├── e-commerce/ 
+│ │ │ ├── pages/ 
+│ │ │ │ ├── AboutUs.jsx 
+│ │ │ │ ├── AllProducts.jsx 
+│ │ │ │ ├── Cart.jsx 
+│ │ │ │ ├── ContactUs.jsx 
+│ │ │ │ ├── Home.jsx 
+│ │ │ │ ├── ProductDetails.jsx 
+│ │ │ │ ├── ProductsByCategory.jsx 
+│ │ │ │ ├── TrackOrders.jsx 
+│ │ │ └── styles/ 
+│ ├── App.css 
+│ ├── App.jsx 
+│ ├── index.css 
+│ ├── main.jsx
+```
 
 ### Key Components
 
@@ -71,7 +111,7 @@ medsmart/ ├── src/ │ ├── assets/ │ ├── components/ │ │
 3. **Run the application:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 4. **Build for production:**
